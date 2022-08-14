@@ -5,3 +5,4 @@
 - 🌱 I am also currently at university learning IT and Philosophy. 
 - 💬 Ask me about NFT and blockchain stuff. 
 - 📫 How to reach me: Telegram: @ayabelarbi
+- 🌓 Fun facts: I spend almost 10 hours listening song daily. 
