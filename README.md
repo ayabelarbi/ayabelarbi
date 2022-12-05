@@ -1,7 +1,7 @@
 ### Hello, I am Aya ! 
 
 - 🔭 My latest work :decentralized application(dApp) in the Ethereum blockchain for NFT miniting . 
-- 🌱 I’m currently learning Rust. 
+- 🌱 I’m currently working for a legal DAO.  
 - 🌱 I am also currently at university learning IT and Philosophy. 
 - 💬 Ask me about NFT and blockchain stuff. 
 - 📫 How to reach me: Telegram: @ayabelarbi
