@@ -2,7 +2,6 @@
 
 - 🔭 My latest work :decentralized application(dApp) in the Ethereum blockchain for NFT miniting . 
 - 🌱 I’m currently working for a legal DAO.  
-- 🌱 I am also currently at university learning IT and Philosophy. 
 - 💬 Ask me anything about NFT, DAO and blockchain stuff. 
 - 📫 How to reach me: Telegram - @ayabelarbi
 - 🌓 Fun facts: I spend almost 10 hours listening song daily. 
