@@ -1,6 +1,6 @@
 ### Hello, I am Aya ! 
 
-- 🔭 My latest work : decentralized application(dApp) in the Ethereum blockchain for NFT miniting . 
+- 🔭 My latest work : working on it . 
 - 🌱 I’m currently working for a legal DAO.  
 - 💬 Ask me anything about NFT, DAO and blockchain stuff. 
 - 📫 How to reach me: Telegram - @ayabelarbi
