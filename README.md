@@ -5,7 +5,7 @@
 - 💬 Ask me anything about NFT, DAO and blockchain stuff. 
 - 📫 How to reach me: Telegram - @ayabelarbi
 - 🌓 Fun facts: I spend almost 10 hours listening song daily. 
-- 💡 Interested by AI and NLP (Natural Language Processing). 
+- 💡 Interested by DeFi, AI and NLP (Natural Language Processing). 
 ---
 
 🧰 Toolbox
