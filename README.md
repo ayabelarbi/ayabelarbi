@@ -18,12 +18,12 @@
  **📊 My GitHub Data:**
 
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ayabelarbi&theme=shadow-purple&border_radius=2&card_width=496)](https://git.io/streak-stats) |[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayabelarbi&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](#!) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=ayabelarbi&theme=shadow-purple&border_radius=2&card_width=496)](https://git.io/streak-stats) |[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayabelarbi&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](#!)|
 |---|---|
 
 
 <div id="github_stats" align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabelarbi)](https://github.com/ayabelarbi/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabelarbi&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 </div>
