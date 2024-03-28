@@ -1,6 +1,6 @@
 ### Hello, I am Aya ! 
 
-[![Alt Text](https://media.giphy.com/media/l3c614V12UA82q1vG/giphy.gif)](https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG)
+![Alt Text](https://media.giphy.com/media/l3c614V12UA82q1vG/giphy.gif)
 
 ---
  **🧰 Toolbox:**
