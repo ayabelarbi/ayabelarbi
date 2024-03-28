@@ -1,11 +1,6 @@
 ### Hello, I am Aya ! 
 
-- 🔭 My latest work : working on it . 
-- 🌱 I’m currently working for a legal DAO.  
-- 💬 Ask me anything about NFT, DAO and blockchain stuff. 
-- 📫 How to reach me: Telegram - @ayabelarbi
-- 🌓 Fun facts: I spend almost 10 hours listening song daily. 
-- 💡 Interested by DeFi, AI and NLP (Natural Language Processing). 
+<iframe src="https://giphy.com/embed/l3c614V12UA82q1vG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG">via GIPHY</a></p>
 ---
  **🧰 Toolbox:**
 
