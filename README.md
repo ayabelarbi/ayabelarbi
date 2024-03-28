@@ -1,6 +1,7 @@
 ### Hello, I am Aya ! 
 
-<iframe src="https://giphy.com/embed/l3c614V12UA82q1vG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG">via GIPHY</a></p>
+[![Alt Text](https://media.giphy.com/media/l3c614V12UA82q1vG/giphy.gif)](https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG)
+
 ---
  **🧰 Toolbox:**
 
