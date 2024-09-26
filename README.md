@@ -1,7 +1,5 @@
 ### Hello,👋 I am Aya ! 
 
-<img src="https://violet-competitive-emu-409.mypinata.cloud/ipfs/QmQh7yDXgM9W3a1uA7TERpXGJjYMCT2ic617f47RmiEjpR"> </img>
-
 ---
  **🧰 Toolbox:**
 
