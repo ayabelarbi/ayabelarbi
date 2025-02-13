@@ -12,7 +12,7 @@
  **📊 My GitHub Data:**
 
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ayabelarbi&theme=shadow-purple&border_radius=2&card_width=496)](https://git.io/streak-stats) |[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayabelarbi&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](#!)|
+| |[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayabelarbi&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](#!)|
 |---|---|
 
 
